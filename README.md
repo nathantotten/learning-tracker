@@ -9,5 +9,17 @@ It’s also a way for me to improve and solidify my skills in:
 
 The goal isn’t to build a polished product, but to **learn by building** — and to grow more confident working with modern tools across the stack.
 
+## 🔧 Tech Stack (Current and Planned)
+
+This project is a work in progress and will evolve as I learn more.
+
+| Layer      | Tools                                |
+|------------|--------------------------------------|
+| Frontend   | React, TypeScript                    |
+| Backend    | Java, Spring Boot                    |
+| Database   | PostgreSQL (Maybe via JPA/Hibernate) |
+| Auth       | (Planned) JWT authentication         |
+| DevOps     | (Planned) Docker + Compose           |
+
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
