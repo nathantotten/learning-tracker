@@ -1,0 +1,12 @@
+{
+  "name": "learning-tracker",
+  "private": true,
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "dev:frontend": "pnpm --filter frontend-react dev"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT"
+}
