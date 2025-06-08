@@ -1,13 +1,13 @@
-package com.caffeinated_dev.learning_tracker;
+package com.caffeinateddev.learningtracker;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class LearningTrackerApplication {
+public class LearningtrackerApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(LearningTrackerApplication.class, args);
+		SpringApplication.run(LearningtrackerApplication.class, args);
 	}
 
 }
